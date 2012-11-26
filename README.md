@@ -28,7 +28,7 @@ Options:
 Examples
 ========
 
-1. Files without extensions, using prefix and suffix:
+**Files without extensions, using prefix and suffix:**
 
 ```sh
 $ ls test
@@ -44,8 +44,7 @@ $ ls test
 test_[0]  test_[1]  test_[2]  test_[3]
 ```
 
-
-2. Files with extensions, using prefix and suffix:
+**Files with extensions, using prefix and suffix:**
 
 ```sh
 $ ls test
